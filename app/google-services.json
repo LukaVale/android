@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282119859139",
+    "project_id": "gettoknowcity-362617",
+    "storage_bucket": "gettoknowcity-362617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282119859139:android:3e0886a686d9cda22beb76",
+        "android_client_info": {
+          "package_name": "hr.ferit.gettoknowcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282119859139-3obgqqijngolqmpf0j1d9gqipm8atpak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LbPfZ7sZPs-tppbG_aUxdsnHtfYu7WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282119859139-3obgqqijngolqmpf0j1d9gqipm8atpak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
